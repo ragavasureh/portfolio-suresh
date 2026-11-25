@@ -1,4 +1,4 @@
-// Optional JavaScript for functionality such as smooth scroll or animations.
+
 document.addEventListener('DOMContentLoaded', function () {
     const ctaBtn = document.querySelector('.cta-btn');
     ctaBtn.addEventListener('click', function (e) {
